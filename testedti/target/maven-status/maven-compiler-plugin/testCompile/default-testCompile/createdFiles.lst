@@ -1,0 +1,4 @@
+com\testedti\AppTest.class
+com\testedti\openbrowser\OpenChrome.class
+com\steps\LoginSteps.class
+com\testedti\pages\login\LoginPage.class
